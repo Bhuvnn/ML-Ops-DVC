@@ -1,0 +1,2 @@
+1. Create a github repo and clone it in local
+2. Now add demo.py in it
