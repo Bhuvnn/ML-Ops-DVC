@@ -7,8 +7,10 @@ After installing DVC
     1. dvc init
     2. Create a directory s3 (just for basic understanding otherwise we usually use s3 databases)
     2. Now do "dvc remote add -d myremote s3"
-    3. now we add "dvc add data/" (If the data folder is already inside our git repo then it will ask us to first remove it and then use this command)
+    3. Now we add "dvc add data/" (If the data folder is already inside our git repo then it will ask us to first remove it and then use this command)
     4. Once above step done then "git add .gitignore data.dvc"
+    5. Now "dvc commit" and then "dvc push"
+    6. Do a "git commit-push" to mark this stage as first version of data
 
 
 
