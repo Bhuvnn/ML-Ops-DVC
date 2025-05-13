@@ -1,2 +1,7 @@
 1. Create a github repo and clone it in local
-2. Now add demo.py in it
+2. Now add demo.py in it.
+3. Now push all the data in the repo
+
+# Install DVC
+
+
