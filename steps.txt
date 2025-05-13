@@ -13,5 +13,6 @@ After installing DVC
     6. Do a "git commit-push" to mark this stage as first version of data
     7. Now we make changes in our demo.py to create a new version of code
     8. Again "dvc commit" and then "dvc push"
+    9. now repeat step 6 to 8 everytime when You make changes and want to keep it as a new version
 
 
